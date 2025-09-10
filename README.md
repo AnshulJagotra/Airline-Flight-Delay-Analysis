@@ -6,10 +6,6 @@ This project analyzes airline flight delay data to identify key insights regardi
 
 The goal of this project is to demonstrate data analysis and visualization skills using a dataset of airline flight routes. Due to the size of a typical flight delay dataset, this analysis is performed on a subset of the data or a similar publicly available dataset suitable for processing in a non-distributed environment like Google Colab.
 
-## Data Source
-
-The data used in this project is sourced from [Mention your data source here, e.g., OpenFlights.org or specify if a subset/sample was used].
-
 ## Technologies Used
 
 *   **Python:** Programming language for data analysis.
